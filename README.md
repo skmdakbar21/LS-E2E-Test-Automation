@@ -26,4 +26,3 @@ Note: If browser not mentioned or wrong browser name mentioned, by default test 
 ''mvn test "-Dcucumber.options=--tags 'not @wip'" -Dbrowser=localChrome''
  
 # Contribute
-Reach out to 'Mahammad Akbar Shaik' (Lead QA) [email: mahammad.shaik@duluxgroup.com.au] for R&W permissions on this repo.
