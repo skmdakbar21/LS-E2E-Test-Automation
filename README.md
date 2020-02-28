@@ -6,7 +6,7 @@ TO setup this test framework locally, follow below instructions.
 1. Install Java Jdk(Version 1.8 or above) and add JAVA_HOME to environment variables with value of /bin path.
 2. Install Maven 3.6.0.
 4. Pull this repository
-''git pull <azure repo path>''
+''git pull git@github.com:skmdakbar21/LS-E2E-Test-Automation.git''
 5. Update Maven dependencies & Java dependencies by updating project.
 
 # Build and Test
