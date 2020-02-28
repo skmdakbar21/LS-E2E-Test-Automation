@@ -1,5 +1,5 @@
 # Introduction 
-This repository contains Lincoln sentry's functional test automation scripts. These automation scripts are web based end to end scenarios.
+This repository contains selenium java cucumber functional test automation scripts. These automation scripts are web based end to end scenarios.
 
 # Getting Started
 TO setup this test framework locally, follow below instructions.
